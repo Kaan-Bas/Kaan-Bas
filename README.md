@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 About Me  
 - 🎓 I am currently studying Software Engineering at Hogeschool van Amsterdam
-- 🌱 I am currently learning more about full-stack development
+- 🌱 I am currently learning more about AI & Data
 - 🔭 I’m currently working on creating personal projects to grow and showcase my skills
 - 📫 How to reach me: kaan.bas762@gmail.com
 
